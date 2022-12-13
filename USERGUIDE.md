@@ -20,7 +20,7 @@ This user guide includes installation, accessing, actions, and preferences.
 
 # Actions
 
-* 
+*  
 Clearing History
 -----------------
 
@@ -30,7 +30,7 @@ Clearing History
 - **History Window:** In the History Window, select the item you would like to delete, or highlight multiple items. After items are highlighted click the Remove button on the bottom right hand corner.    <br>
   <img width="660" alt="image" src="https://user-images.githubusercontent.com/55960777/207446572-cef1bdef-62a4-4d35-869f-1c49c889ee68.png">
 
-* 
+*   
 Pasting
 ----------
 
