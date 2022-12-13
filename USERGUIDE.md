@@ -12,6 +12,7 @@ This user guide includes installation, accessing, actions, and preferences.
   <img width="1280" alt="Screen Shot 2022-12-13 at 12 41 09 PM" src="https://user-images.githubusercontent.com/55960777/207443285-1699d75f-fbea-4b9b-9ff3-8f99095ed47d.png">
 
 - **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd> 
+   
    <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
 
 - **History Window:** First click on the icon in the menu bar. Then select History Window from the drop down menu. 
@@ -33,6 +34,7 @@ This user guide includes installation, accessing, actions, and preferences.
   <img width="630" alt="image" src="https://user-images.githubusercontent.com/55960777/207446804-b0c7b3c5-e68c-42db-b77a-1712f666136c.png">
 
 - **Keyboard Shortcut:** <kbd>⌘ Command</kbd> + <kbd>#</kbd>  The number corresponds to the order of copies.
+   
    <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
 
 # Preferences
@@ -59,19 +61,14 @@ To access, click on preferences in the drop down menu.
 
   <img width="383" alt="image" src="https://user-images.githubusercontent.com/55960777/207450223-dd9bc944-23ec-4774-89c5-2354a0cb70a6.png">
   
-  <table style="border-collapse: collapse; border: none;">
-   <tr style="border: none;">
-       <td style="border: none;">
-        Setting the first level will effect the items in the red box.
-         <img width="259" alt="image" src="https://user-images.githubusercontent.com/55960777/207450754-f06d9679-674e-43c2-a7e1-6cabd54c3a42.png">
-       </td>
-       <td style="border: none;">
-        Setting the second level will effect the items in the subfolder.
-         <img width="582" alt="image" src="https://user-images.githubusercontent.com/55960777/207450961-519f6a9b-e6e1-4c25-a9f5-3f22b925e13b.png">
-       </td>
-   </tr>
-</table>
-
+  Setting the first level will effect the items in the red box.
+    
+    <img width="259" alt="image" src="https://user-images.githubusercontent.com/55960777/207450754-f06d9679-674e-43c2-a7e1-6cabd54c3a42.png">
+      
+  Setting the second level will effect the items in the subfolder.
+    
+    <img width="582" alt="image" src="https://user-images.githubusercontent.com/55960777/207450961-519f6a9b-e6e1-4c25-a9f5-3f22b925e13b.png">
+     
 You can also adjust the length of the preview text title.
 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/55960777/207451199-1cc0f615-0381-4c3a-8130-7b3d11a7a36e.png">
