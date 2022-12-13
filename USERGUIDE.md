@@ -11,8 +11,7 @@ This user guide includes installation, accessing, actions, and preferences.
 - **Menu Bar:** After installation an icon will appear in your menu bar, you can use this to access Clip Menu features. 
   <img width="1280" alt="Screen Shot 2022-12-13 at 12 41 09 PM" src="https://user-images.githubusercontent.com/55960777/207443285-1699d75f-fbea-4b9b-9ff3-8f99095ed47d.png">
 
-- **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd> 
-   
+- **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>   <br>
    <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
 
 - **History Window:** First click on the icon in the menu bar. Then select History Window from the drop down menu. 
