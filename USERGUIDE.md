@@ -5,7 +5,7 @@ This user guide includes installation, accessing, actions, and preferences.
 
 # Installation
 
-    [How to Install](INSTALL.md)
+   [How to Install](INSTALL.md)
 
 # Accessing 
 
