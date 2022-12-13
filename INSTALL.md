@@ -25,7 +25,7 @@ The source code is dependent on some libraries. You do not need to download thes
 
 ## Download
 
-<h3>1.</h3> <h4> Click [this link](https://web.archive.org/web/20160616151931/https://dl.dropboxusercontent.com/u/1140644/clipmenu/ClipMenu-1.0.0a1.dmg) to install the dmg file.</h4>  <br>  
+<h3> 1.</h3> <h4> Click [this link](https://web.archive.org/web/20160616151931/https://dl.dropboxusercontent.com/u/1140644/clipmenu/ClipMenu-1.0.0a1.dmg) to install the dmg file.</h4>  <br>  
 ### 2. <h4> Open the downloaded dmg file and wait for this screen to pop up:</h4>   
    <img width="312" alt="Screen Shot 2022-12-13 at 12 36 03 PM" src="https://user-images.githubusercontent.com/55960777/207438245-ce220ed6-789b-49ce-80bd-3949e99f61e7.png">  <br> <br>
 ### 3. <h4> Drag the Clip Menu item into your applications folder. </h4>    
