@@ -1,4 +1,5 @@
-# How to Install
+How to Install
+===============
 
 This installation document includes Requirements, Dependencies, and Download.
 
