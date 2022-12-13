@@ -69,6 +69,6 @@ To access, click on preferences in the drop down menu.   <br>
 
   ### Shortcuts 
   ----------- 
-  You can adjust what keys are used for the keyboard shortcut. Default is <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>  <br>
+  - You can adjust what keys are used for the keyboard shortcut. Default is <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>  <br>
   <img width="334" alt="image" src="https://user-images.githubusercontent.com/55960777/207448685-627e479f-7ed2-4de6-af9c-78ad0214e534.png">
 
