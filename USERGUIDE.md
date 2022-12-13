@@ -37,7 +37,8 @@ This user guide includes installation, accessing, actions, and preferences.
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
 
 # Preferences
-To access, click on preferences in the drop down menu. 
+To access, click on preferences in the drop down menu.
+
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/55960777/207448364-430063e3-a518-4c2f-9236-44fadc438ff2.png">
 
 ### Genral
