@@ -11,8 +11,8 @@ This user guide includes installation, accessing, actions, and preferences.
 - **Menu Bar:** After installation an icon will appear in your menu bar, you can use this to access Clip Menu features. 
   <img width="1280" alt="Screen Shot 2022-12-13 at 12 41 09 PM" src="https://user-images.githubusercontent.com/55960777/207443285-1699d75f-fbea-4b9b-9ff3-8f99095ed47d.png">
 
-- **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>
-    <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
+- **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd> 
+   <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
 
 - **History Window:** First click on the icon in the menu bar. Then select History Window from the drop down menu. 
   <img width="664" alt="image" src="https://user-images.githubusercontent.com/55960777/207445859-3aaa0952-2619-465e-a0b9-a7c45f58dfb2.png">
@@ -33,7 +33,7 @@ This user guide includes installation, accessing, actions, and preferences.
   <img width="630" alt="image" src="https://user-images.githubusercontent.com/55960777/207446804-b0c7b3c5-e68c-42db-b77a-1712f666136c.png">
 
 - **Keyboard Shortcut:** <kbd>⌘ Command</kbd> + <kbd>#</kbd>  The number corresponds to the order of copies.
-    <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
+   <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
 
 # Preferences
 To access, click on preferences in the drop down menu.
