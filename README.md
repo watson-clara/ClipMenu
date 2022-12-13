@@ -41,7 +41,7 @@ Installation
 Usage
 ------
 
-[How to Use](USERGUIDE.md
+[How to Use](USERGUIDE.md)
 
 
 Author
