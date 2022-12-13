@@ -20,6 +20,7 @@ This user guide includes installation, accessing, actions, and preferences.
 
 # Actions
 
+
   ### Clearing History 
   ---------------
 
