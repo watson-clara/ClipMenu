@@ -53,9 +53,11 @@ To access, click on preferences in the drop down menu.
 
 - **Item Type:** ClipMenu can record clipboard history in the following clipboard types: Plain text, Rich Text Format (RTF), Rich Text Format Directory (RTFD), PDF, Filenames, URL, TIFF image, PICT image. The default is set to not include image data types. If you record image types to clipboard history, ClipMenu can show pieces of the images in the menu. The image's width and height is adjustable.
  
-  <img width="365" alt="image" src="https://user-images.githubusercontent.com/55960777/207449569-c57947d1-b8fe-4233-ad70-779ad48a9484.png"> 
-      
-  <img width="180" alt="image" src="https://user-images.githubusercontent.com/55960777/207449631-2df32a52-aa70-4366-9786-9531f1176d51.png">
+    <img width="365" alt="image" src="https://user-images.githubusercontent.com/55960777/207449569-c57947d1-b8fe-4233-ad70-779ad48a9484.png"> 
+    
+            
+    <img width="180" alt="image" src="https://user-images.githubusercontent.com/55960777/207449631-2df32a52-aa70-4366-9786-9531f1176d51.png">
+    
 
 - **Items in Drop Down Preview:** You can have up to 500 items in the preview menu. Split up between the first and second level previews. 
 
