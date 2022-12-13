@@ -20,25 +20,23 @@ This user guide includes installation, accessing, actions, and preferences.
 
 # Actions
 
-*  
-Clearing History
------------------
+    Clearing History
+    -----------------
 
-- **Menu Bar:** On the drop down menu, highlight Special, then select Clear History.    <br>
-  <img width="380" alt="image" src="https://user-images.githubusercontent.com/55960777/207446237-915ed1c7-ecaf-41f5-a8f3-1fe1fb745562.png">
+    - **Menu Bar:** On the drop down menu, highlight Special, then select Clear History.    <br>
+      <img width="380" alt="image" src="https://user-images.githubusercontent.com/55960777/207446237-915ed1c7-ecaf-41f5-a8f3-1fe1fb745562.png">
 
-- **History Window:** In the History Window, select the item you would like to delete, or highlight multiple items. After items are highlighted click the Remove button on the bottom right hand corner.    <br>
-  <img width="660" alt="image" src="https://user-images.githubusercontent.com/55960777/207446572-cef1bdef-62a4-4d35-869f-1c49c889ee68.png">
+    - **History Window:** In the History Window, select the item you would like to delete, or highlight multiple items. After items are highlighted click the Remove button on the bottom right hand corner.    <br>
+      <img width="660" alt="image" src="https://user-images.githubusercontent.com/55960777/207446572-cef1bdef-62a4-4d35-869f-1c49c889ee68.png">
 
-*   
-Pasting
-----------
+    Pasting
+    ----------
 
-- **Menu Bar:** On the drop down menu, click the item you would like to paste.  <br>
-   <img width="630" alt="image" src="https://user-images.githubusercontent.com/55960777/207446804-b0c7b3c5-e68c-42db-b77a-1712f666136c.png">
+    - **Menu Bar:** On the drop down menu, click the item you would like to paste.  <br>
+       <img width="630" alt="image" src="https://user-images.githubusercontent.com/55960777/207446804-b0c7b3c5-e68c-42db-b77a-1712f666136c.png">
 
-- **Keyboard Shortcut:** <kbd>⌘ Command</kbd> + <kbd>#</kbd>  The number corresponds to the order of copies.    <br>
-   <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
+    - **Keyboard Shortcut:** <kbd>⌘ Command</kbd> + <kbd>#</kbd>  The number corresponds to the order of copies.    <br>
+       <img width="293" alt="image" src="https://user-images.githubusercontent.com/55960777/207448104-0267f3d7-d3ef-4162-87df-62bfef6d41f1.png">
 
 # Preferences
 
