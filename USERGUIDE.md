@@ -12,7 +12,7 @@ This user guide includes installation, accessing, actions, and preferences.
   <img width="1280" alt="Screen Shot 2022-12-13 at 12 41 09 PM" src="https://user-images.githubusercontent.com/55960777/207443285-1699d75f-fbea-4b9b-9ff3-8f99095ed47d.png">
 
 - **Keyboard Shortcut:**  <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>
-  <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
+   <img width="382" alt="image" src="https://user-images.githubusercontent.com/55960777/207444832-1abdd3dc-a04b-41a4-a4d0-3f9e5445f5c2.png">
 
 - **History Window:** First click on the icon in the menu bar. Then select History Window from the drop down menu. 
   <img width="664" alt="image" src="https://user-images.githubusercontent.com/55960777/207445859-3aaa0952-2619-465e-a0b9-a7c45f58dfb2.png">
@@ -50,8 +50,9 @@ To access, click on preferences in the drop down menu.
   <img width="388" alt="image" src="https://user-images.githubusercontent.com/55960777/207449282-746d34e5-2955-4b1d-a3cc-716adc7e333c.png">
 
 - **Item Type:** ClipMenu can record clipboard history in the following clipboard types: Plain text, Rich Text Format (RTF), Rich Text Format Directory (RTFD), PDF, Filenames, URL, TIFF image, PICT image. The default is set to not include image data types. If you record image types to clipboard history, ClipMenu can show pieces of the images in the menu. The image's width and height is adjustable.
-
+- 
   <img width="365" alt="image" src="https://user-images.githubusercontent.com/55960777/207449569-c57947d1-b8fe-4233-ad70-779ad48a9484.png">
+  
   <img width="180" alt="image" src="https://user-images.githubusercontent.com/55960777/207449631-2df32a52-aa70-4366-9786-9531f1176d51.png">
 
 - **Items in Drop Down Preview:** You can have up to 500 items in the preview menu. Split up between the first and second level previews. 
@@ -67,9 +68,6 @@ To access, click on preferences in the drop down menu.
        <td>
         Setting the second level will effect the items in the subfolder.
          <img width="582" alt="image" src="https://user-images.githubusercontent.com/55960777/207450961-519f6a9b-e6e1-4c25-a9f5-3f22b925e13b.png">
-       </td>
-       <td>
-           Third Entry
        </td>
    </tr>
 </table>
