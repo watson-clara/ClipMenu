@@ -33,6 +33,17 @@ The source code is dependent on some libraries. You have to download and install
 * [Google Toolbox for Mac](http://code.google.com/p/google-toolbox-for-mac/) by Google Inc.
 * [BWToolkit](http://www.brandonwalkin.com/bwtoolkit/) by Brandon Walkin
 
+Installation
+------------
+
+[How to Install](INSTALL.md)
+
+Usage
+------
+
+[How to Use](USERGUIDE.md
+
+
 Author
 ------
 
