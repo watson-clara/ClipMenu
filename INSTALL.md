@@ -32,7 +32,7 @@ The source code is dependent on some libraries. You do not need to download thes
    <img width="875" alt="image" src="https://user-images.githubusercontent.com/55960777/207438651-642aa45d-45b1-45c9-b352-75133bee3573.png">  <br> <br>
 ### 4. <h4> Find the new Clip Menu app in your applications folder and double click. An alert will pop up, click "Open".  </em>  <br>
    <img width="905" alt="image" src="https://user-images.githubusercontent.com/55960777/207438885-43a38819-2341-4e43-a9d8-b0ecc65b0a51.png">  <br> <br>
-### 5. <h4>An icon will appear in your menu bar.  </h4>  <br>
+### 5. <h4>An icon will appear in your menu bar.  </h4> 
    <img width="1280" alt="image" src="https://user-images.githubusercontent.com/55960777/207439246-b5cce5de-dc60-4ac9-8bb8-12948dc9de42.png">  <br> <br>
-### 6. <h4> Now as you copy things, they will show up under you menu bar icon. </h4>  <br>
+### 6. <h4> Now as you copy things, they will show up under you menu bar icon. </h4>  
    <img width="754" alt="image" src="https://user-images.githubusercontent.com/55960777/207439647-3ff65a1e-f168-4a71-87a1-2c459840795b.png">
