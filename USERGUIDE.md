@@ -44,7 +44,7 @@ To access, click on preferences in the drop down menu.   <br>
  <img width="298" alt="image" src="https://user-images.githubusercontent.com/55960777/207448364-430063e3-a518-4c2f-9236-44fadc438ff2.png">
 
   ### Genral 
-  ----------- <br>
+  ----------- 
   <img width="457" alt="image" src="https://user-images.githubusercontent.com/55960777/207448633-945862e0-393e-4d80-8272-8191c6cebb19.png">
 
   - **History Items:** This number represensts how many cliped items the application will store at once. You can adjust the number of clipboard history items freely, if you have sufficient memory in your Mac. The default value is 100.
@@ -67,7 +67,7 @@ To access, click on preferences in the drop down menu.   <br>
     <img width="390" alt="image" src="https://user-images.githubusercontent.com/55960777/207451199-1cc0f615-0381-4c3a-8130-7b3d11a7a36e.png">
 
   ### Shortcuts  
-  ----------- <br>
+  ----------- 
   You can adjust what keys are used for the keyboard shortcut. Default is <kbd>⇧ Shift</kbd> + <kbd>⌘ Command</kbd> + <kbd>.</kbd>  <br>
   <img width="334" alt="image" src="https://user-images.githubusercontent.com/55960777/207448685-627e479f-7ed2-4de6-af9c-78ad0214e534.png">
 
