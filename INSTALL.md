@@ -10,7 +10,7 @@ If you do not think you are running the correct OS, please refer to [Update macO
 
 ## Dependencies
 
-The source code is dependent on some libraries. You do not need to download these seprately. 
+The source code is dependent on some libraries. You do not need to download these separately. 
 
 [Shortcut Recorder](http://code.google.com/p/shortcutrecorder/) by contributors to ShortcutRecorder
 
